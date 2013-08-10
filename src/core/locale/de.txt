@@ -8,11 +8,11 @@ Zurücksetzen
 Name der Konversation
 Nickname
 verbinden
-Gebe einen Namen für den Chatroom ein und teile ihn mit anderen, um dich mit ihnen zu unterhalten. Wenn du dich mit neuen Leuten treffen willst, gebe <strong>lobby</strong> als Chatnamen ein.
-Gebe den Namen des Chatsrooms an, dem du beitreten willst.
+Gib einen Namen für den Chatroom ein und teile ihn mit anderen, um dich mit ihnen zu unterhalten. Wenn du dich mit neuen Leuten treffen willst, gib <strong>lobby</strong> als Chatnamen ein.
+Gib den Namen des Chatsrooms an, dem du beitreten willst.
 Bitte gib einen Namen für den Chatroom ein.
 Der Name des Chatrooms muss alphanumerisch sein.
-Gebe bitte einen Nicknamen ein.
+Gib bitte einen Nicknamen ein.
 Der Nickname muss alphanumerisch sein.
 Dieser Nickname wird bereits verwendet.
 Authentifizierungsfehler.
